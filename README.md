@@ -1,1 +1,1 @@
-# NLP-hotel_reviews
+# Sentiment Analysis in hotel reviews
